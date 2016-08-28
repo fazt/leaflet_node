@@ -1,0 +1,12 @@
+body{
+  background-color: #222;
+  font-size: 1em;
+  color: #333;
+}
+
+#myMap{
+  position: absolute;
+  height: 100%;
+  top: 0;
+  width: 100%;
+}
